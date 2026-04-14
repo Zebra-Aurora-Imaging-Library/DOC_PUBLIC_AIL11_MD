@@ -8,4 +8,4 @@ Date: 14/04/2026
 This repo contains the AIL 11 documentation as MD files. This can be used with AI tools to directly query the repo. For example, you can clone the repo and, using GitHub CoPilot with an Agent and a Claude model, you can ask, “Refer to DOC_PUBLIC_AIL11_MD and give me the steps to create an AIL application that will find a model and read a string. Also give the me the corresponding python code for this application.”
 
 **Link**  
-[https://github.com/Zebra-Aurora-Imaging-Library/DAILMultiSystem_AIL11](https://github.com/Zebra-Aurora-Imaging-Library/DOC_PUBLIC_AIL11_MD)
+[https://github.com/Zebra-Aurora-Imaging-Library/DOC_PUBLIC_AIL11_MD](https://github.com/Zebra-Aurora-Imaging-Library/DOC_PUBLIC_AIL11_MD)
